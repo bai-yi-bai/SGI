@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="icons.sbg.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-743.14383"
+     inkscape:cy="-129.61952"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="147"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g897"
+       transform="translate(0,21.54464)">
+      <circle
+         style="fill:#01a17c;fill-opacity:1;stroke:#eba63f;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path856"
+         cx="-68.035713"
+         cy="-144.3869"
+         r="73.327377"
+         inkscape:export-xdpi="17.200001"
+         inkscape:export-ydpi="17.200001" />
+      <text
+         xml:space="preserve"
+         style="font-size:82.9025px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-135.44324"
+         y="-114.61406"
+         id="text860"
+         inkscape:export-xdpi="17.200001"
+         inkscape:export-ydpi="17.200001"><tspan
+           sodipodi:role="line"
+           id="tspan858"
+           x="-135.44324"
+           y="-114.61406"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.9025px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583">SGI</tspan></text>
+    </g>
+    <g
+       id="g901">
+      <circle
+         style="fill:#01a17c;fill-opacity:1;stroke:#eba63f;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle890"
+         cx="80.130951"
+         cy="-122.84226"
+         r="73.327377"
+         inkscape:export-xdpi="2.75"
+         inkscape:export-ydpi="2.75" />
+      <path
+         id="path862"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 69.026719,-171.56409 a 37.318473,37.318473 0 0 0 -37.256124,37.31814 37.318473,37.318473 0 0 0 37.318653,37.318651 37.318473,37.318473 0 0 0 22.605338,-7.625891 l 30.432764,30.432768 6.36396,-6.363952 -30.344923,-30.344916 a 37.318473,37.318473 0 0 0 8.261513,-23.41666 37.318473,37.318473 0 0 0 -37.318652,-37.31814 37.318473,37.318473 0 0 0 -0.06253,0 z m -0.01602,8.38606 a 28.932298,28.932298 0 0 1 0.01344,0 28.932298,28.932298 0 0 1 0.06511,0 28.932298,28.932298 0 0 1 28.932084,28.93208 28.932298,28.932298 0 0 1 -28.932084,28.9326 28.932298,28.932298 0 0 1 -28.9326,-28.9326 28.932298,28.932298 0 0 1 28.85405,-28.93208 z"
+         inkscape:export-xdpi="2.75"
+         inkscape:export-ydpi="2.75" />
+    </g>
+  </g>
+</svg>
