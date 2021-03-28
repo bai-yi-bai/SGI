@@ -14,7 +14,7 @@ from collections import OrderedDict
 
 # pyinstaller command
 # pyinstaller -F --noconsole --icon=mag.ico stellaris_save_game_info.py
-version = '1.00'
+version = '1.0.0'
 default_text = f"Stellaris Game Information (SGI)\t\t\t\tv{version}\nhttps://github.com/bai-yi-bai/SGI"
 click_text = """\nClick "Open Save File" to begin.\n\n"""
 
