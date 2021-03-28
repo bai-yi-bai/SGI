@@ -9,15 +9,15 @@ Provides these key features:
 
 ## Launching the Application
 SGI can be run by either one of two ways:
-* Use the stand-alone .exe
+* Use the executible file:
   1. Download the [latest release](https://github.com/bai-yi-bai/SGI/releases/download/v1.0.0/SGI.v1.0.0.zip).
   2. Extract all files and launch __stellaris_save_game_info v1.0.0.exe__.
 
 Or 
 
-* Use the .py files
-  1. Install [Python (tested 3.9)](https://www.python.org).
-  2. Clone or download the repo. SGI uses the standard library.
+* Use the .py files:
+  1. Install [Python](https://www.python.org). SGI was built using version 3.9 and uses the standard library.
+  2. Clone or download the repo. 
   3. Launch the __stellaris_save_game_info.py__ file.
 
 ## Inspiration
