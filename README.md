@@ -13,8 +13,8 @@ SGI can be run by either one of two ways:
 
 Or 
 
-1. Install [Python (tested 3.9)](https://www.python.org)
-2. Clone the repo or download the main.zip from the __CODE__ button.
+1. Install [Python (tested 3.9)](https://www.python.org).
+2. Clone the repo or download the main.zip from the __CODE__ button. No additional libraries are required.
 3. Launch the __stellaris_save_game_info.py__ file.
 
 ## Inspiration
