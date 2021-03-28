@@ -14,13 +14,12 @@ from collections import OrderedDict
 
 # pyinstaller command
 # pyinstaller -F --noconsole --icon=mag.ico stellaris_save_game_info.py
-
-default_text = """Stellaris Game Information (SGI)
-https://github.com/bai-yi-bai/SGI
-"""
+version = '1.00'
+default_text = f"Stellaris Game Information (SGI)\t\t\t\tv{version}\nhttps://github.com/bai-yi-bai/SGI"
 click_text = """\nClick "Open Save File" to begin.\n\n"""
 
-about_text = """Reads basic game information. Useful for multiplayer games spanning multiple sessions. 
+about_text = """Reads basic game information faster than opening Stellaris. 
+Useful for multiplayer games spanning multiple sessions. 
 Calculates how many years (turns) are left before victory.
 
 SGI searches for specific strings defined in the stellaris_save_game_info.ini. 
