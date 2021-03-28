@@ -10,7 +10,7 @@ Provides these key features:
 ## Launching the Application
 SGI can be run by either one of two ways:
 * Use the stand-alone .exe
-  1. Download the [latest release](https://github.com/bai-yi-bai/SGI/releases/download/v1.0.0/stellaris_save_game_info.v1.0.0.zip).
+  1. Download the [latest release](https://github.com/bai-yi-bai/SGI/releases/download/v1.0.0/SGI.v1.0.0.zip).
   2. Extract all files and launch __stellaris_save_game_info v1.0.0.exe__.
 
 Or 
